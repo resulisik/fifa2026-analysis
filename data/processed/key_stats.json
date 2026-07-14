@@ -1,0 +1,39 @@
+{
+  "n_matches": 100,
+  "n_teams": 48,
+  "n_players": 1007,
+  "total_goals": 317,
+  "avg_goals_per_match": 3.17,
+  "highest_scoring_match": {
+    "HomeTeam": "Germany",
+    "AwayTeam": "Paraguay",
+    "Score": "4-5",
+    "Round": "Round of 32"
+  },
+  "top_team_by_points": {
+    "Team": "France",
+    "Points": 18,
+    "Wins": 6,
+    "Draws": 0,
+    "Losses": 0,
+    "GoalDiff": 14
+  },
+  "top_rated_player": {
+    "Player": "Lionel Messi",
+    "Team": "Argentina",
+    "AvgRating": 9.033333333333333,
+    "Position": "F"
+  },
+  "most_valuable_player": {
+    "Player": "Lamine Yamal",
+    "Team": "Spain",
+    "MarketValueEUR": 200000000.0
+  },
+  "avg_market_value_finalists_vs_r32": {
+    "round_of_16_avg_value": 631964062.0,
+    "overall_avg_value": 358888021.0
+  },
+  "correlation_market_value_points": 0.757,
+  "correlation_possession_goals": 0.322,
+  "correlation_xg_goals": 0.618
+}

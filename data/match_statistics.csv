@@ -1,0 +1,101 @@
+Round,Group,Date,HomeTeam,AwayTeam,Score,HomeTeamMarketValueEUR,AwayTeamMarketValueEUR,PossessionHome%,PossessionAway%,TotalShotsHome,TotalShotsAway,ShotsOnTargetHome,ShotsOnTargetAway,PassesHome,PassesAway,PassAccuracyHome%,PassAccuracyAway%,FoulsHome,FoulsAway,CornersHome,CornersAway,YellowCardsHome,YellowCardsAway,RedCardsHome,RedCardsAway,OffsidesHome,OffsidesAway,xGHome,xGAway
+Group Stage - Matchday 1,"FIFA World Cup, Group A",2026-06-11,Mexico,South Africa,2-0,191850000,49250000,61%,39%,16,3,4,2,520,334,90,81,12,11,3,1,1.0,2.0,1.0,2.0,1.0,1.0,1.46,0.07
+Group Stage - Matchday 1,"FIFA World Cup, Group A",2026-06-12,South Korea,Czechia,2-1,139050000,188175000,62%,38%,15,7,6,4,541,327,87,70,9,16,4,5,1.0,0.0,,,2.0,2.0,2.3,0.83
+Group Stage - Matchday 1,"FIFA World Cup, Group B",2026-06-12,Canada,Bosnia & Herzegovina,1-1,198650000,146400000,61%,39%,13,8,4,3,421,271,74,63,10,20,9,4,2.0,3.0,,,1.0,0.0,1.23,0.96
+Group Stage - Matchday 1,"FIFA World Cup, Group D",2026-06-13,USA,Paraguay,4-1,385650000,153650000,65%,35%,16,9,6,1,598,319,85,73,13,17,3,1,1.0,5.0,,,2.0,1.0,1.42,0.54
+Group Stage - Matchday 1,"FIFA World Cup, Group B",2026-06-13,Qatar,Switzerland,1-1,19925000,332500000,32%,68%,6,26,3,7,278,576,72,91,12,11,3,10,2.0,1.0,,,0.0,1.0,0.6,3.2
+Group Stage - Matchday 1,"FIFA World Cup, Group C",2026-06-13,Brazil,Morocco,1-1,928200000,447700000,51%,49%,12,14,5,3,514,486,87,86,16,14,6,2,2.0,0.0,,,0.0,1.0,1.26,1.37
+Group Stage - Matchday 1,"FIFA World Cup, Group C",2026-06-14,Haiti,Scotland,0-1,55850000,170250000,54%,46%,15,9,2,2,431,374,85,82,23,21,4,3,1.0,3.0,,,3.0,1.0,1.05,1.05
+Group Stage - Matchday 1,"FIFA World Cup, Group D",2026-06-14,Australia,Türkiye,2-0,77450000,473700000,28%,72%,9,30,4,8,271,704,74,90,12,4,5,8,0.0,1.0,,,1.0,3.0,1.18,1.36
+Group Stage - Matchday 1,"FIFA World Cup, Group E",2026-06-14,Germany,Curaçao,7-1,947000000,25775000,65%,35%,26,8,12,2,637,343,87,82,18,11,8,1,,,,,0.0,1.0,4.22,0.41
+Group Stage - Matchday 1,"FIFA World Cup, Group F",2026-06-14,Netherlands,Japan,2-2,754200000,270850000,60%,40%,10,10,6,3,524,341,88,84,7,7,5,4,3.0,0.0,,,1.0,0.0,0.78,0.59
+Group Stage - Matchday 1,"FIFA World Cup, Group E",2026-06-14,Côte d'Ivoire,Ecuador,1-0,522100000,368700000,48%,52%,15,12,4,1,470,492,84,85,10,13,3,5,3.0,1.0,,,,,1.52,1.01
+Group Stage - Matchday 1,"FIFA World Cup, Group F",2026-06-15,Sweden,Tunisia,5-1,409075000,69950000,49%,51%,13,6,7,2,356,371,78,79,10,8,4,2,0.0,1.0,,,3.0,6.0,1.33,0.28
+Group Stage - Matchday 1,"FIFA World Cup, Group H",2026-06-15,Spain,Cabo Verde,0-0,1222800000,54500000,74%,26%,27,6,7,1,800,278,92,74,10,1,11,1,1.0,1.0,,,2.0,3.0,2.1,0.2
+Group Stage - Matchday 1,"FIFA World Cup, Group G",2026-06-15,Belgium,Egypt,1-1,547500000,116475000,54%,46%,15,14,3,3,455,398,86,81,15,15,2,7,2.0,2.0,,,0.0,1.0,1.35,1.08
+Group Stage - Matchday 1,"FIFA World Cup, Group H",2026-06-15,Saudi Arabia,Uruguay,1-1,40675000,359300000,33%,67%,7,27,3,10,322,612,73,88,11,6,4,14,1.0,0.0,,,0.0,6.0,0.66,1.72
+Group Stage - Matchday 1,"FIFA World Cup, Group G",2026-06-16,Iran,New Zealand,2-2,32050000,34300000,49%,51%,17,14,4,8,409,446,77,84,10,8,4,1,1.0,0.0,,,2.0,0.0,1.5,1.24
+Group Stage - Matchday 1,"FIFA World Cup, Group I",2026-06-16,France,Senegal,3-1,1523000000,478100000,53%,47%,11,6,8,2,575,502,88,86,5,9,6,4,,,,,1.0,3.0,1.79,0.53
+Group Stage - Matchday 1,"FIFA World Cup, Group I",2026-06-16,Iraq,Norway,1-4,21200000,589900000,39%,61%,11,12,1,5,334,537,81,89,12,13,2,5,1.0,0.0,,,1.0,0.0,0.8,2.52
+Group Stage - Matchday 1,"FIFA World Cup, Group J",2026-06-17,Argentina,Algeria,3-0,807500000,256900000,48%,52%,10,7,6,0,561,609,90,92,13,8,2,2,,,,,3.0,1.0,1.47,0.3
+Group Stage - Matchday 1,"FIFA World Cup, Group J",2026-06-17,Austria,Jordan,3-1,245200000,20300000,63%,37%,11,11,4,4,580,332,84,73,12,7,4,3,1.0,0.0,,,3.0,1.0,1.69,0.46
+Group Stage - Matchday 1,"FIFA World Cup, Group K",2026-06-17,Portugal,DR Congo,1-1,1005500000,143650000,75%,25%,7,8,1,2,783,249,92,78,9,10,5,4,3.0,1.0,,,3.0,2.0,0.65,0.87
+Group Stage - Matchday 1,"FIFA World Cup, Group L",2026-06-17,England,Croatia,4-2,1358200000,387300000,52%,48%,22,10,11,5,474,443,86,86,10,12,8,2,,,,,0.0,1.0,3.2,0.7
+Group Stage - Matchday 1,"FIFA World Cup, Group L",2026-06-17,Ghana,Panama,1-0,234350000,34550000,38%,62%,7,11,2,4,352,583,83,86,9,11,2,2,1.0,2.0,,,4.0,1.0,1.25,0.73
+Group Stage - Matchday 1,"FIFA World Cup, Group K",2026-06-18,Uzbekistan,Colombia,1-3,85125000,302350000,39%,61%,8,15,2,4,319,519,76,86,14,11,3,4,1.0,1.0,,,0.0,3.0,1.16,1.61
+Group Stage - Matchday 2,"FIFA World Cup, Group A",2026-06-18,Czechia,South Africa,1-1,188175000,49250000,38%,62%,14,17,3,4,341,563,80,90,12,10,5,5,1.0,2.0,,,2.0,3.0,1.02,1.38
+Group Stage - Matchday 2,"FIFA World Cup, Group B",2026-06-18,Switzerland,Bosnia & Herzegovina,4-1,332500000,146400000,62%,38%,13,5,7,3,586,354,88,81,7,18,7,3,1.0,2.0,0.0,1.0,3.0,1.0,2.06,0.23
+Group Stage - Matchday 2,"FIFA World Cup, Group B",2026-06-18,Canada,Qatar,6-0,198650000,19925000,79%,21%,32,2,10,0,567,162,91,64,9,10,19,1,1.0,1.0,0.0,2.0,1.0,1.0,4.6,0.22
+Group Stage - Matchday 2,"FIFA World Cup, Group A",2026-06-19,Mexico,South Korea,1-0,191850000,139050000,42%,58%,8,9,4,2,427,578,82,84,9,7,0,2,0.0,2.0,,,3.0,6.0,0.53,0.91
+Group Stage - Matchday 2,"FIFA World Cup, Group D",2026-06-19,USA,Australia,2-0,385650000,77450000,62%,38%,10,5,2,2,523,310,85,71,12,16,7,4,3.0,4.0,,,1.0,0.0,1.08,0.35
+Group Stage - Matchday 2,"FIFA World Cup, Group C",2026-06-19,Scotland,Morocco,0-1,170250000,447700000,41%,59%,6,12,0,2,456,670,85,90,11,8,2,5,1.0,1.0,,,1.0,0.0,0.51,0.99
+Group Stage - Matchday 2,"FIFA World Cup, Group C",2026-06-20,Brazil,Haiti,3-0,928200000,55850000,57%,43%,8,7,5,3,525,399,88,83,13,14,4,4,1.0,3.0,,,8.0,4.0,1.75,0.23
+Group Stage - Matchday 2,"FIFA World Cup, Group D",2026-06-20,Türkiye,Paraguay,0-1,473700000,153650000,79%,21%,32,7,5,2,629,178,89,54,14,15,12,0,1.0,1.0,0.0,1.0,2.0,3.0,2.17,0.32
+Group Stage - Matchday 2,"FIFA World Cup, Group F",2026-06-20,Netherlands,Sweden,5-1,754200000,409075000,51%,49%,10,16,7,8,449,425,89,85,9,12,2,5,0.0,3.0,,,3.0,3.0,2.61,1.01
+Group Stage - Matchday 2,"FIFA World Cup, Group E",2026-06-20,Germany,Côte d'Ivoire,2-1,947000000,522100000,60%,40%,16,9,7,2,624,431,89,85,5,7,8,3,,,,,0.0,1.0,1.89,1.22
+Group Stage - Matchday 2,"FIFA World Cup, Group E",2026-06-21,Ecuador,Curaçao,0-0,368700000,25775000,75%,25%,27,10,15,3,644,227,90,70,7,10,9,0,1.0,5.0,,,1.0,2.0,2.84,0.5
+Group Stage - Matchday 2,"FIFA World Cup, Group F",2026-06-21,Tunisia,Japan,0-4,69950000,270850000,38%,62%,2,11,0,5,354,583,80,89,8,15,3,5,,,,,1.0,1.0,0.05,2.13
+Group Stage - Matchday 2,"FIFA World Cup, Group H",2026-06-21,Spain,Saudi Arabia,4-0,1222800000,40675000,67%,33%,22,3,8,1,726,364,92,81,10,2,6,1,0.0,2.0,,,2.0,3.0,2.3,0.14
+Group Stage - Matchday 2,"FIFA World Cup, Group G",2026-06-21,Belgium,Iran,0-0,547500000,32050000,70%,30%,23,7,7,3,621,270,86,73,7,9,4,2,1.0,1.0,1.0,0.0,3.0,4.0,1.79,0.62
+Group Stage - Matchday 2,"FIFA World Cup, Group H",2026-06-21,Uruguay,Cabo Verde,2-2,359300000,54500000,65%,35%,17,12,2,4,511,278,82,74,11,4,11,4,2.0,2.0,,,3.0,0.0,2.32,0.88
+Group Stage - Matchday 2,"FIFA World Cup, Group G",2026-06-22,New Zealand,Egypt,1-3,34300000,116475000,44%,56%,11,19,5,7,421,526,80,87,14,8,4,3,2.0,1.0,,,3.0,0.0,1.24,1.87
+Group Stage - Matchday 2,"FIFA World Cup, Group J",2026-06-22,Argentina,Austria,2-0,807500000,245200000,54%,46%,12,6,5,1,554,468,89,86,13,13,1,3,2.0,2.0,,,2.0,0.0,2.36,0.53
+Group Stage - Matchday 2,"FIFA World Cup, Group I",2026-06-22,France,Iraq,3-0,1523000000,21200000,56%,44%,19,4,5,0,603,481,90,86,8,4,4,2,0.0,1.0,,,1.0,0.0,2.67,0.63
+Group Stage - Matchday 2,"FIFA World Cup, Group I",2026-06-23,Norway,Senegal,3-2,589900000,478100000,42%,58%,13,16,7,4,353,489,80,88,13,5,5,4,,,,,0.0,4.0,2.2,1.72
+Group Stage - Matchday 2,"FIFA World Cup, Group J",2026-06-23,Jordan,Algeria,1-2,20300000,256900000,28%,72%,8,17,4,8,251,641,72,88,11,6,1,10,1.0,1.0,,,1.0,0.0,0.63,1.89
+Group Stage - Matchday 2,"FIFA World Cup, Group K",2026-06-23,Portugal,Uzbekistan,5-0,1005500000,85125000,66%,34%,17,7,9,2,624,327,90,80,14,15,3,2,1.0,1.0,,,2.0,2.0,2.61,0.24
+Group Stage - Matchday 2,"FIFA World Cup, Group L",2026-06-23,England,Ghana,0-0,1358200000,234350000,79%,21%,19,2,3,1,633,172,93,74,14,24,9,2,1.0,1.0,,,2.0,2.0,1.36,0.17
+Group Stage - Matchday 2,"FIFA World Cup, Group L",2026-06-23,Panama,Croatia,0-1,34550000,387300000,42%,58%,8,6,1,2,352,512,79,84,19,12,7,2,1.0,1.0,,,1.0,2.0,0.55,1.65
+Group Stage - Matchday 2,"FIFA World Cup, Group K",2026-06-24,Colombia,DR Congo,1-0,302350000,143650000,64%,36%,20,7,9,1,541,299,87,76,12,16,5,4,2.0,1.0,,,7.0,0.0,0.98,0.37
+Group Stage - Matchday 3,"FIFA World Cup, Group B",2026-06-24,Bosnia & Herzegovina,Qatar,3-1,146400000,19925000,54%,46%,14,9,5,3,515,434,88,85,9,14,5,5,1.0,1.0,,,1.0,3.0,0.68,0.77
+Group Stage - Matchday 3,"FIFA World Cup, Group B",2026-06-24,Switzerland,Canada,2-1,332500000,198650000,55%,45%,6,13,4,7,443,339,83,80,19,13,2,7,1.0,2.0,,,1.0,3.0,1.11,1.66
+Group Stage - Matchday 3,"FIFA World Cup, Group C",2026-06-24,Morocco,Haiti,4-2,447700000,55850000,69%,31%,22,9,11,2,541,247,88,80,10,18,9,1,0.0,3.0,,,5.0,0.0,3.76,1.22
+Group Stage - Matchday 3,"FIFA World Cup, Group C",2026-06-24,Scotland,Brazil,0-3,170250000,928200000,46%,54%,14,21,5,9,499,606,90,93,10,11,7,6,1.0,2.0,,,0.0,1.0,1.04,4.33
+Group Stage - Matchday 3,"FIFA World Cup, Group A",2026-06-25,Czechia,Mexico,0-3,188175000,191850000,52%,48%,13,11,1,5,398,386,84,85,9,13,5,1,0.0,1.0,,,1.0,0.0,0.53,1.74
+Group Stage - Matchday 3,"FIFA World Cup, Group A",2026-06-25,South Africa,South Korea,1-0,49250000,139050000,32%,68%,13,8,4,3,340,719,81,89,7,9,4,6,1.0,1.0,,,3.0,0.0,1.16,0.9
+Group Stage - Matchday 3,"FIFA World Cup, Group E",2026-06-25,Curaçao,Côte d'Ivoire,0-2,25775000,522100000,37%,63%,11,7,2,3,355,624,83,89,11,6,4,6,2.0,1.0,,,2.0,1.0,0.5,1.31
+Group Stage - Matchday 3,"FIFA World Cup, Group E",2026-06-25,Ecuador,Germany,2-1,368700000,947000000,39%,61%,7,11,3,3,378,592,83,87,15,10,3,2,3.0,1.0,,,,,1.27,0.65
+Group Stage - Matchday 3,"FIFA World Cup, Group F",2026-06-25,Japan,Sweden,1-1,270850000,409075000,52%,48%,8,11,3,5,445,395,85,79,20,11,2,8,1.0,2.0,,,3.0,2.0,1.21,0.64
+Group Stage - Matchday 3,"FIFA World Cup, Group F",2026-06-25,Tunisia,Netherlands,1-3,69950000,754200000,29%,71%,10,20,4,7,258,647,77,93,11,10,4,6,,,,,2.0,1.0,0.62,1.85
+Group Stage - Matchday 3,"FIFA World Cup, Group D",2026-06-26,Paraguay,Australia,0-0,153650000,77450000,44%,56%,7,12,2,5,426,537,77,82,9,6,1,3,1.0,1.0,,,,,0.24,0.55
+Group Stage - Matchday 3,"FIFA World Cup, Group D",2026-06-26,Türkiye,USA,3-2,473700000,385650000,47%,53%,9,18,3,7,434,471,77,85,13,13,2,9,0.0,1.0,,,2.0,5.0,3.05,2.13
+Group Stage - Matchday 3,"FIFA World Cup, Group I",2026-06-26,Norway,France,1-4,589900000,1523000000,43%,57%,10,18,4,9,421,555,81,86,9,11,4,5,1.0,1.0,,,1.0,2.0,1.7,1.5
+Group Stage - Matchday 3,"FIFA World Cup, Group I",2026-06-26,Senegal,Iraq,5-0,478100000,21200000,69%,31%,28,6,12,1,590,266,88,69,10,11,12,3,2.0,2.0,0.0,1.0,1.0,0.0,3.01,0.14
+Group Stage - Matchday 3,"FIFA World Cup, Group H",2026-06-27,Cabo Verde,Saudi Arabia,0-0,54500000,40675000,51%,49%,15,7,2,3,451,444,84,81,10,16,4,2,1.0,3.0,,,2.0,0.0,1.39,0.39
+Group Stage - Matchday 3,"FIFA World Cup, Group H",2026-06-27,Uruguay,Spain,0-1,359300000,1222800000,33%,67%,5,6,1,1,301,622,76,89,14,14,1,6,3.0,1.0,1.0,0.0,5.0,2.0,0.2,0.86
+Group Stage - Matchday 3,"FIFA World Cup, Group G",2026-06-27,Egypt,Iran,1-1,116475000,32050000,61%,39%,15,13,3,4,589,367,87,77,11,16,8,2,3.0,4.0,,,0.0,3.0,0.84,1.97
+Group Stage - Matchday 3,"FIFA World Cup, Group G",2026-06-27,New Zealand,Belgium,1-5,34300000,547500000,46%,54%,6,35,2,10,436,525,85,88,10,7,5,8,2.0,0.0,,,1.0,1.0,0.24,3.64
+Group Stage - Matchday 3,"FIFA World Cup, Group L",2026-06-27,Croatia,Ghana,2-1,387300000,234350000,53%,47%,8,6,4,1,523,455,91,88,9,13,3,2,1.0,1.0,,,1.0,2.0,0.42,0.64
+Group Stage - Matchday 3,"FIFA World Cup, Group L",2026-06-27,Panama,England,0-2,34550000,1358200000,33%,67%,13,17,2,6,268,558,75,88,16,13,3,7,2.0,1.0,,,4.0,4.0,0.66,1.56
+Group Stage - Matchday 3,"FIFA World Cup, Group K",2026-06-27,Colombia,Portugal,0-0,302350000,1005500000,55%,45%,24,13,6,2,544,446,89,91,12,6,5,2,1.0,0.0,,,3.0,2.0,1.7,0.93
+Group Stage - Matchday 3,"FIFA World Cup, Group K",2026-06-27,DR Congo,Uzbekistan,3-1,143650000,85125000,58%,42%,19,3,4,1,485,355,82,76,6,16,2,4,3.0,2.0,,,3.0,1.0,2.18,0.2
+Group Stage - Matchday 3,"FIFA World Cup, Group J",2026-06-28,Algeria,Austria,3-3,256900000,245200000,65%,35%,12,10,5,3,754,396,94,87,3,7,0,3,0.0,1.0,,,1.0,3.0,1.67,1.49
+Group Stage - Matchday 3,"FIFA World Cup, Group J",2026-06-28,Jordan,Argentina,1-3,20300000,807500000,27%,73%,5,12,1,4,285,801,80,92,13,7,2,6,3.0,0.0,,,1.0,3.0,0.76,2.13
+Round of 32,"FIFA World Cup, Knockout",2026-06-28,South Africa,Canada,0-1,49250000,198650000,58%,42%,6,12,1,7,554,379,84,79,10,16,1,4,0.0,2.0,,,1.0,0.0,0.14,1.38
+Round of 32,"FIFA World Cup, Knockout",2026-06-29,Brazil,Japan,2-1,928200000,270850000,69%,31%,19,5,7,2,682,313,92,83,4,13,6,2,2.0,3.0,,,1.0,0.0,2.07,0.33
+Round of 32,"FIFA World Cup, Knockout",2026-06-29,Germany,Paraguay,4-5,947000000,153650000,76%,24%,21,7,6,3,805,255,90,63,18,12,16,6,2.0,2.0,,,4.0,1.0,1.57,0.35
+Round of 32,"FIFA World Cup, Knockout",2026-06-30,Netherlands,Morocco,3-4,754200000,447700000,30%,70%,6,11,2,5,371,879,79,91,18,15,5,8,0.0,1.0,,,3.0,0.0,0.24,1.38
+Round of 32,"FIFA World Cup, Knockout",2026-06-30,Côte d'Ivoire,Norway,1-2,522100000,589900000,47%,53%,14,9,5,4,401,474,85,88,6,7,14,3,0.0,1.0,,,2.0,2.0,1.49,1.9
+Round of 32,"FIFA World Cup, Knockout",2026-06-30,France,Sweden,3-0,1523000000,409075000,61%,39%,25,8,12,3,551,350,88,79,14,10,9,1,,,,,3.0,1.0,3.24,0.7
+Round of 32,"FIFA World Cup, Knockout",2026-07-01,Mexico,Ecuador,2-0,191850000,368700000,43%,57%,15,7,3,1,316,410,78,83,10,14,3,8,0.0,3.0,0.0,1.0,0.0,1.0,1.05,0.75
+Round of 32,"FIFA World Cup, Knockout",2026-07-01,England,DR Congo,2-1,1358200000,143650000,60%,40%,16,7,7,2,517,365,91,82,10,12,5,3,1.0,1.0,,,0.0,4.0,2.16,0.77
+Round of 32,"FIFA World Cup, Knockout",2026-07-01,Belgium,Senegal,3-2,547500000,478100000,52%,48%,19,19,5,5,701,639,86,84,22,12,4,2,1.0,1.0,,,2.0,2.0,1.74,3.58
+Round of 32,"FIFA World Cup, Knockout",2026-07-02,USA,Bosnia & Herzegovina,2-0,385650000,146400000,48%,52%,8,10,2,3,415,447,84,82,7,13,4,3,0.0,1.0,1.0,0.0,3.0,0.0,0.88,0.25
+Round of 32,"FIFA World Cup, Knockout",2026-07-02,Spain,Austria,3-0,1222800000,245200000,64%,36%,23,5,10,0,629,347,91,82,8,15,9,0,0.0,1.0,,,2.0,5.0,2.8,0.32
+Round of 32,"FIFA World Cup, Knockout",2026-07-02,Portugal,Croatia,2-1,1005500000,387300000,60%,40%,15,13,3,6,585,370,91,84,6,12,9,5,1.0,2.0,,,1.0,4.0,2.2,1.34
+Round of 32,"FIFA World Cup, Knockout",2026-07-03,Switzerland,Algeria,2-0,332500000,256900000,45%,55%,11,8,5,2,438,563,81,85,10,12,4,2,0.0,2.0,,,0.0,2.0,2.45,0.74
+Round of 32,"FIFA World Cup, Knockout",2026-07-03,Australia,Egypt,3-5,77450000,116475000,42%,58%,16,14,1,3,505,722,80,85,12,14,4,7,0.0,2.0,,,0.0,3.0,0.84,1.32
+Round of 32,"FIFA World Cup, Knockout",2026-07-03,Argentina,Cabo Verde,3-2,807500000,54500000,64%,36%,22,16,10,5,850,476,92,86,13,12,8,8,1.0,1.0,,,3.0,2.0,2.26,0.47
+Round of 32,"FIFA World Cup, Knockout",2026-07-04,Colombia,Ghana,1-0,302350000,234350000,61%,39%,20,8,8,0,586,376,91,83,14,10,3,2,2.0,3.0,,,2.0,0.0,2.04,0.27
+Round of 16,"FIFA World Cup, Knockout",2026-07-04,Canada,Morocco,0-3,198650000,447700000,45%,55%,10,5,3,4,359,473,76,82,24,14,11,1,4.0,4.0,,,2.0,3.0,0.84,0.82
+Round of 16,"FIFA World Cup, Knockout",2026-07-04,Paraguay,France,0-1,153650000,1523000000,24%,76%,5,15,1,5,183,569,54,90,13,11,2,12,0.0,3.0,,,,,0.13,1.45
+Round of 16,"FIFA World Cup, Knockout",2026-07-05,Brazil,Norway,1-2,928200000,589900000,34%,66%,14,9,4,5,331,681,84,91,7,6,5,5,1.0,0.0,,,1.0,1.0,2.61,1.05
+Round of 16,"FIFA World Cup, Knockout",2026-07-06,Mexico,England,2-3,191850000,1358200000,67%,33%,20,6,5,5,453,244,92,80,14,7,12,2,2.0,4.0,0.0,1.0,1.0,0.0,1.88,1.61
+Round of 16,"FIFA World Cup, Knockout",2026-07-06,Portugal,Spain,0-1,1005500000,1222800000,45%,55%,10,15,2,6,427,530,84,88,9,13,3,7,2.0,1.0,,,2.0,1.0,0.63,1.69
+Round of 16,"FIFA World Cup, Knockout",2026-07-07,USA,Belgium,1-4,385650000,547500000,56%,44%,7,15,2,7,527,414,87,81,11,9,3,5,2.0,0.0,,,0.0,1.0,0.63,2.01
+Round of 16,"FIFA World Cup, Knockout",2026-07-07,Argentina,Egypt,3-2,807500000,116475000,64%,36%,19,5,7,2,602,349,90,82,13,11,6,1,0.0,4.0,,,3.0,0.0,2.84,0.89
+Round of 16,"FIFA World Cup, Knockout",2026-07-07,Switzerland,Colombia,4-3,332500000,302350000,53%,47%,7,15,2,3,631,547,87,83,22,21,3,7,3.0,2.0,,,5.0,4.0,0.39,1.09
+Quarter-final,"FIFA World Cup, Knockout",2026-07-09,France,Morocco,2-0,1523000000,447700000,50,50,22,5,8,1,497,539,91,87,10,13,5,5,0.0,1.0,0.0,0.0,0.0,0.0,3.04,0.14
+Quarter-final,"FIFA World Cup, Knockout",2026-07-10,Spain,Belgium,2-1,1222800000,547500000,68,32,12,3,8,2,610,300,91,83,13,18,5,1,2.0,2.0,0.0,0.0,1.0,1.0,1.85,0.65
+Quarter-final,"FIFA World Cup, Knockout",2026-07-11,Norway,England,1-2,589900000,1358200000,48,52,13,14,4,8,420,460,82,87,12,10,7,4,2.0,1.0,0.0,0.0,2.0,1.0,0.77,0.96
+Quarter-final,"FIFA World Cup, Knockout",2026-07-11,Argentina,Switzerland,3-1,807500000,332500000,57,43,17,7,7,3,540,360,88,81,9,15,8,3,1.0,2.0,0.0,1.0,2.0,1.0,2.0,0.53
